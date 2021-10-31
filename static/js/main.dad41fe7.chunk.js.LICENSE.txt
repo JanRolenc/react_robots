@@ -1,0 +1,5 @@
+//!!
+
+//!!! pozor na syntax!!! toto je taky pravidlo - musim nastavit state pomoci setState timto zpusobem
+
+//!!!pokud mam v kodu state, tak uz je to tzv. smart komponenta a musim pouzit class
