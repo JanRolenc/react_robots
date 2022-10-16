@@ -1,0 +1,1 @@
+//!!!pokud mam v kodu state, tak uz je to tzv. smart komponenta a musim pouzit class
